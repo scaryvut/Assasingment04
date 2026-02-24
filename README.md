@@ -4,3 +4,6 @@ On the other hand querySelector and querySelectorAll is first one matching first
 
 2. How do you create and insert a new element into the DOM?
 Ans: Firstly create a element like const div=document.createElement("div") and then config it. After the config append it with childnode.
+
+3. What is Event Bubbling? And how does it work?
+Ans: Event Bubbling is travel a website root to leaf and leaf to root. That means when we click on a website its travel parentnode to every child node like bubble frequency.
