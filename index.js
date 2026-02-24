@@ -23,6 +23,7 @@ function calcCount(){
     sum.innerText=allCards.children.length;
     sumInterview.innerText=jobList.length
     sumReject.innerText=rejectList.length
+    jobCount.innerText=allCards.children.length;
 }
 calcCount()
 
