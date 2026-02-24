@@ -10,3 +10,6 @@ Ans: Event Bubbling is travel a website root to leaf and leaf to root. That mean
 
 4. What is Event Delegation in JavaScript? Why is it useful?
 Ans: Event Delegation is a pattern where I attach a eventListener and it bubbling parentNode to childNode. It is useful because Its make elements are dynamic.
+
+5. What is the difference between preventDefault() and stopPropagation() methods?
+Ans: event.preventDefault() This method stops the default action associated with an event from occurring. The event itself, however, continues to propagate through the DOM as usual.
