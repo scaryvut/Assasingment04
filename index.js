@@ -140,7 +140,7 @@ function newSection(){
                     <button class="btn-second font-semibold">Rejected</button>
                 </div>
                 <div>
-                    <img class="delete-btn" src="/Group 1.png" alt="">
+                    <img class="delete-btn" src="/asset/Group 1.png" alt="">
                 </div>
             </div>
 
@@ -168,7 +168,7 @@ function newRejection(){
                     <button class="btn-second font-semibold">Rejected</button>
                 </div>
                 <div>
-                    <img class="delete-btn" src="/Group 1.png" alt="">
+                    <img class="delete-btn" src="/asset/Group 1.png" alt="">
                 </div>
             </div>
 
