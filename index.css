@@ -1,0 +1,56 @@
+.main{
+    margin-left: 245px;
+    margin-right: 245px;
+    margin-top: 60px;
+}
+.job{
+    justify-content: space-between;
+}
+.job-calculate{
+    background-color: white;
+    border-radius: 10px;
+    width: 340px;
+    height: 89px;
+    gap: 16px;
+    padding: 20px 20px 20px 20px;
+    margin-top: 15px;
+}
+.avi{
+    justify-content: space-between;
+}
+.btn-p{
+    margin-top: 24px;
+}
+
+.card{
+    justify-content: space-between;
+}
+
+.btn-first{
+    width: 100px;
+    height: 36px;
+    border: 1px solid green;
+    color: green;
+}
+.btn-second{
+    width: 100px;
+    height: 36px;
+    border: 1px solid red;
+    color: red;
+}
+.heading{
+    background-color: #EEF4FF;
+    text-align: center;
+    padding: 5px;
+}
+.card-container p{
+    color: grey;
+}
+.no{
+    margin-top: 24px;
+    justify-items: center;
+    background-color: #FFFFFF;
+}
+.card-container2 p{
+    color: gray;
+}
