@@ -7,6 +7,7 @@ let currentStatus='all'
 let sum = document.getElementById('sum');
 let sumInterview = document.getElementById('sumInterview');
 let sumReject = document.getElementById("sumReject");
+let jobCount = document.getElementById("jobCount");
 
 const newALL = document.getElementById('newAll');
 const interview = document.getElementById('interview');
