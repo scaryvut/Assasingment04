@@ -7,3 +7,6 @@ Ans: Firstly create a element like const div=document.createElement("div") and t
 
 3. What is Event Bubbling? And how does it work?
 Ans: Event Bubbling is travel a website root to leaf and leaf to root. That means when we click on a website its travel parentnode to every child node like bubble frequency.
+
+4. What is Event Delegation in JavaScript? Why is it useful?
+Ans: Event Delegation is a pattern where I attach a eventListener and it bubbling parentNode to childNode. It is useful because Its make elements are dynamic.
